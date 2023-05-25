@@ -1,0 +1,17 @@
+-IE:/mve_recon/mve/3rdparty/include
+-IE:/mve_recon/mve/3rdparty/include
+-IE:/mve_recon/mve/3rdparty/include
+-IE:/mve_recon/mve/3rdparty/include
+-IE:/mve_recon/mve/libs
+-IE:/mve_recon/mve/3rdparty/include
+-IE:/mve_recon/mve/apps/umve/.
+-D__SSE2__
+-D__SSE3__
+-DGLEW_STATIC
+-DWIN32_LEAN_AND_MEAN
+-DVC_EXTRALEAN
+-DNOMINMAX
+-DWIN32
+-o
+E:/mve_recon/mve/apps/umve/viewinspect/moc_imageinspector.cpp
+E:/mve_recon/mve/apps/umve/viewinspect/imageinspector.h

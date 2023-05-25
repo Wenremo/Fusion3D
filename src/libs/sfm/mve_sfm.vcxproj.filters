@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\ba_linear_solver.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\bundle_adjustment.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\bundler_common.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\bundler_features.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\bundler_incremental.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\bundler_init_pair.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\bundler_intrinsics.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\bundler_matching.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\bundler_tracks.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\camera_database.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\cascade_hashing.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\exhaustive_matching.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\extract_focal_length.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\feature_set.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\fundamental.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\homography.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\matching.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\nearest_neighbor.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\pose_p3p.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\ransac.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\ransac_fundamental.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\ransac_homography.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\ransac_pose_p3p.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\sift.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\surf.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\triangulate.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\mve_recon\mve\libs\sfm\visualizer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\ba_cholesky.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\ba_conjugate_gradient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\ba_dense_vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\ba_linear_solver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\ba_sparse_matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\ba_types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\bundle_adjustment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\bundler_common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\bundler_features.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\bundler_incremental.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\bundler_init_pair.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\bundler_intrinsics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\bundler_matching.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\bundler_tracks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\camera_database.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\camera_pose.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\cascade_hashing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\correspondence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\defines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\exhaustive_matching.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\extract_focal_length.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\feature_set.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\fundamental.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\homography.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\matching.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\matching_base.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\nearest_neighbor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\pose_p3p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\ransac.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\ransac_fundamental.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\ransac_homography.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\ransac_pose_p3p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\sift.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\surf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\triangulate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\mve_recon\mve\libs\sfm\visualizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\mve_recon\mve\libs\sfm\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2D85118F-0406-3C65-B796-0B4F7A31DE7F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{05A345D8-4EAF-3780-B107-69F53FF72110}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

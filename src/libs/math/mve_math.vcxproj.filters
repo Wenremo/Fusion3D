@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\mve_recon\mve\libs\math\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\mve_recon\mve\libs\math\accum.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\algo.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\bezier_curve.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\bspline.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\defines.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\functions.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\geometry.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\line.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\matrix.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\matrix_qr.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\matrix_svd.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\matrix_tools.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\octree_tools.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\permute.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\plane.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\quaternion.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\transform.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\mve_recon\mve\libs\math\vector.h">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{05A345D8-4EAF-3780-B107-69F53FF72110}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
